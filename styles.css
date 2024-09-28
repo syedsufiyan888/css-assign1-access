@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    background-color: palegoldenrod;
+}
+header{
+    background-color: darksalmon;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    padding: 1px;
+    border: 1px solid darkcyan;
+}
+#fiction{
+    border: 1px solid lightslategrey;
+    background-color: lightcyan;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#non-fiction{
+    border: 1px solid lightslategrey;
+    background-color: lightsteelblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+h2{
+    color: blue;
+}
+ul{
+    
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    border-bottom: 2px ;
+    background-color: palevioletred;
+    border-radius: 10px;
+    border: 0.3px solid black;
+    margin: 10px;
+}
+.bestseller{
+    background-color: palegreen;
+    font-weight: bold;
+    color: darkred;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    color: darkgreen;
+}
+.student-name{
+    font-weight: bold;
+    color: darkslateblue;
+}
